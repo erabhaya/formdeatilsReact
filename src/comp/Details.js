@@ -45,10 +45,13 @@ export default class Details extends Component {
           _________________________________________________________________
           <div className='App'>
               <h2>Entered Informations:</h2>
+           <h3>
              Your Name: {this.state.myFirstname} {this.state.mylastname} <br/>
              Your Age: {this.state.ageName}
-
+             </h3>
           </div>
+          _________________________________________________________________
+          _________________________________________________________________
           <div>
           </div>
       

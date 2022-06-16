@@ -1,7 +1,7 @@
 // import React from 'react';
 import React, { useState } from "react";
 
-export default function Numbertoword() {
+export default function Colorchooser() {
     const [color, setColor] = useState("red");
 
     return (

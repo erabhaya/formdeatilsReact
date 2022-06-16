@@ -15,6 +15,5 @@ export default class Test extends Component {
         return (
           <div>
             <h1 onMouseOver={this.changeBrand} onMouseOut={this.changeBrand2}>My Friend Name is  {this.state.name}</h1>
-            <button >click me </button>
           </div>
         );}}
